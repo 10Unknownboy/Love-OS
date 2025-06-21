@@ -24,8 +24,8 @@ const MusicCardGallery: React.FC = () => {
     },
     {
       image: '/files/database/images/memory4.jpg',
-      title: 'Hum Tere Payr Mein',
-      artist: 'Lata Mangeshkar',
+      title: 'Thum Tak',
+      artist: 'A.R. Rahman',
       localAudioSrc: '/files/database/songs/song4.mp3'
     },
     {
@@ -36,8 +36,8 @@ const MusicCardGallery: React.FC = () => {
     },
     {
       image: '/files/database/images/memory6.jpg',
-      title: 'Chand Si Mehbhuba',
-      artist: 'Mukesh',
+      title: 'Jhol',
+      artist: 'Mannu',
       localAudioSrc: '/files/database/songs/song6.mp3'
     }
   ];
