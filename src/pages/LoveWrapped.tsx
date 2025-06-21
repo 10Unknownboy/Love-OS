@@ -119,9 +119,8 @@ const LoveWrapped: React.FC = () => {
       {/* Main Memory Image */}
       <div className="flex items-center justify-center h-full p-8">
         <div className="relative max-w-4xl max-h-full">
-          {/* NOTE: Replace 'memory1.jpg' with your actual memory image filename */}
           <img
-            src="/files/database/images/memory1.jpg"
+            src="/files/database/images/collage.jpg"
             alt="Our Beautiful Memory"
             className="w-full h-full object-cover rounded-3xl shadow-2xl animate-fade-in-up"
             style={{ animationDelay: '0.3s' }}
