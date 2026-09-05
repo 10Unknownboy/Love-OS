@@ -20,10 +20,10 @@ Wanna go full dev-mode on your laptop? Here’s how:
 
 ```sh
 # 🐑 Step 1: Clone this baby to your machine.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/10Unknownboy/Love-OS.git
 
 # 📁 Step 2: Jump into the project folder.
-cd <YOUR_PROJECT_NAME>
+cd Love-OS
 
 # 📦 Step 3: Install the goodies (dependencies).
 npm i
